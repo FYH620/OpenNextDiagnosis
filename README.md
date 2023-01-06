@@ -377,10 +377,6 @@ pip install -r requirements.txt
 
 ![](docs/文档中的图片文件/maskdetectview.jpg)
 
-### 实际工作场景
-
-![](docs/文档中的图片文件/workingview.jpg)
-
 ### 组件二 - 新冠CT实时诊断平台
 
 ![](docs/文档中的图片文件/diagnosisview.jpg)
